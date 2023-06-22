@@ -3,3 +3,5 @@
 ## Задача 3. Галерея изображений с проверкой URL (задача со звёздочкой)
 
 ![CI](https://github.com/irinarinch/tasks/actions/workflows/web.yml/badge.svg)
+
+https://irinarinch.github.io/tasks/
